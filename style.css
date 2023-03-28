@@ -1,0 +1,74 @@
+body{
+	background-color:#c8bff5;
+	font-family: DejaVu Sans Mono, monospace;
+}
+#logo{
+	width:30%;
+}
+.header{
+	background-color: #a599e0;
+	text-align:center;
+	color: #2100c4;
+	filter: drop-shadow(3px 3px 3px black);
+	font-size: 40px;
+	border-radius: 10px;
+	font-weight: bolder;
+	font-style: italic;
+	font-family: DejaVu Sans Mono, monospace;
+
+}
+.texto{
+	font-size: 20px;
+	background-color: #d6d0f5;
+		filter: drop-shadow(3px 3px 3px black);
+		border-radius: 10px;
+		padding: 25px;
+
+	font-family: DejaVu Sans Mono, monospace;
+}
+.lista{
+	display: inline-block;
+	font-size: 23px;
+    filter: drop-shadow(3px 3px 3px white);
+    padding: 10px;
+	font-family: DejaVu Sans Mono, monospace;
+}
+#titulo1{
+	text-align: center;
+	font-size:30px;
+	padding: 20px;
+	font-weight: bolder;
+	font-style: italic;
+	filter: drop-shadow(3px 3px 5px white);
+
+}
+#titulo2{
+	text-align: center;
+	font-size:30px;
+	padding: 20px;
+	font-weight: bolder;
+	font-style: italic;
+	filter: drop-shadow(3px 3px 5px white);
+}
+#imagem{
+	width: 30%;
+	padding: 10px;
+}
+.link{
+	font-size: 20px;
+	text-align: center;
+	padding: 30px;
+	font-family: DejaVu Sans Mono, monospace;
+}
+.tituloo{
+		background-color: #a599e0;
+	text-align:center;
+	color: #2100c4;
+	filter: drop-shadow(3px 3px 3px black);
+	font-size: 40px;
+	border-radius: 10px;
+	font-weight: bolder;
+	font-style: italic;
+	font-family: DejaVu Sans Mono, monospace;
+
+}
